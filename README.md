@@ -1,4 +1,4 @@
-(https://github.com/BijoyBytes/BijoyBytes/blob/main/business_and_data_fluency_2.png)
+![ logo ](https://github.com/BijoyBytes/BijoyBytes/blob/main/business_and_data_fluency_2.png)
 <h1 align="center">Hi 👋, I'm Bijoy Paul</h1>
 <h3 align="center">Aspiring Data Analyst with a strong passion.</h3>
 
