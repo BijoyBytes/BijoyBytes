@@ -21,7 +21,7 @@
 
 - 💬 Ask me about *Data Analysis, Business Decision*
 
-- 📫 How to reach me *bijoy.corporate@gmail.com*
+- 📫 How to reach me *bijoypaul.connect@gmail.com*
   
 - ⚡ Fun fact *Over Thinking😅*
 
