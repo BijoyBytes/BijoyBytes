@@ -66,4 +66,17 @@
   
 
   ----------------------------
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh-pmishra&show_icons=true&locale=en" alt="ashutosh-pmishra" /></p>
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bijoybytes&show_icons=true&locale=en&layout=compact" alt="bijoybytes" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bijoybytes&show_icons=true&locale=en" alt="bijoybytes" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bijoybytes&" alt="bijoybytes" /></p>
+
+
