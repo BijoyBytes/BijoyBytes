@@ -66,8 +66,4 @@
   
 
   ----------------------------
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=graphical-analysis&show_icons=true&locale=en&layout=compact" alt="graphical-analysis" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=graphical-analysis&show_icons=true&locale=en" alt="graphical-analysis" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=graphical-analysis&" alt="graphical-analysis" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashutosh-pmishra&show_icons=true&locale=en" alt="ashutosh-pmishra" /></p>
